@@ -7,7 +7,7 @@ function DetailPage() {
     const newsId = router.query.newsId;
 
 
-    return <h1>The News Page</h1>
+    return <h1>The News Page 1</h1>
 }
 
 //https://www.youtube.com/watch?v=MFuwkrseXVE min: 43:29
